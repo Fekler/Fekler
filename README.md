@@ -43,19 +43,16 @@ public class Program
 }
 ```
 
+#### Algumas Estatísticas:
 
-<hr>
-<dl align="center">
-  <img height="190px" alt="Fekler" src="https://github-readme-streak-stats.herokuapp.com/?user=Fekler&hide_border=true&theme=dark" />
-</dl>
-<hr>
-<dl align="center">
-   <img align="center" height="150px" alt="Fekler" src="https://github-readme-stats.vercel.app/api?username=fekler&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&theme=dark" />
-</dl>
-
+<div>
+<img loading="lazy" height="180em" alt="Fekler" src="https://github-readme-streak-stats.herokuapp.com/?user=Fekler&hide_border=true&theme=dark" />
+<img loading="lazy" height="180em" alt="Fekler" src="https://github-readme-stats.vercel.app/api?username=Fekler&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&theme=dark" />
+<img loading="lazy" height="180em" alt="Fekler" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fekler&layout=compact&langs_count=7&hide_border=true&theme=dark"/>
+</div>
 ## Total de Visitas no perfil 23/10/2022 :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Fekler/count.svg" />
+   <img alingn="center" loading="lazy" src="https://profile-counter.glitch.me/Fekler/count.svg" />
  </p>
 
 
