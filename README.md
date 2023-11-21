@@ -27,7 +27,7 @@ public class Program
 {
     public static void Main()
     {
-        DEV Fekler = new DEV
+        DEV Fekler = new ()
         {
             Name = "Felipe Queiroz",
             Age = 30,
