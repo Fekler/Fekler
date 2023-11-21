@@ -8,7 +8,7 @@
 
 [https://fekler.tech/](https://fekler.tech/)
 
-
+## Mais sobre mim
 <!---
 public class DEV
 {
@@ -42,6 +42,64 @@ public class Program
     }
 }
 ```
+## Linguagens e ferramentas
+
+<code><img
+    height="30"
+    src="https://github.com/Fekler/fekler.github.io/blob/main/Resources/Images/csharp.png?raw=true"
+    alt="Logo C#"/></code>
+<code><img
+    height="30"
+    src="https://github.com/Fekler/fekler.github.io/blob/main/Resources/Images/dotnet.png?raw=true"
+    alt="Logo .NET"/></code>
+<code><img
+    height="30"
+    src="https://github.com/Fekler/fekler.github.io/blob/main/Resources/Images/xamarin.png?raw=true"
+    alt="Logo Xamarin"/></code>
+<code><img
+    height="30"
+    src="https://github.com/Fekler/fekler.github.io/blob/main/Resources/Images/MAUI.png?raw=true"
+    alt="Logo MAUI"/></code>
+<code><img
+    height="30"
+    src="https://github.com/Fekler/fekler.github.io/blob/main/Resources/Images/azure.png?raw=true"
+    alt="Logo Azure"/></code>
+<code><img
+    height="30"
+    src="https://github.com/Fekler/fekler.github.io/blob/main/Resources/Images/docker.png?raw=true"
+    alt="Logo Docker"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+    alt="Logo visual studio code"/></code>
+<code><img
+    height="30"
+    src="https://th.bing.com/th/id/OIP.YfiasfgVF4lBtgVfis5glQHaHa?rs=1&pid=ImgDetMain"
+    alt="Logo Visual Studio"/></code>
+<code><img
+    height="30"
+    src="https://github.com/Fekler/fekler.github.io/blob/main/Resources/Images/sql-server.png?raw=true"
+    alt="Logo SQL Server"/></code>
+<code><img
+    height="30"
+    src="https://github.com/Fekler/fekler.github.io/blob/main/Resources/Images/postgresql.png?raw=true"
+    alt="Logo Postgress SQL"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
+    alt="Logo git"/></code>
+<code><img
+    height="30"
+    src="https://www.vhv.rs/dpng/d/464-4644573_github-logo-png-github-transparent-png.png"
+    alt="Logo GitHub"/></code>
+<code><img
+    height="30"
+    src="https://th.bing.com/th/id/OIP.6KZsz3XVilk2EUbZABvU2QHaID?rs=1&pid=ImgDetMain"
+    alt="Logo JIRA"/></code>
+<code><img
+    height="30"
+    src="https://github.com/Fekler/fekler.github.io/blob/main/Resources/Images/microsoft.png?raw=true"
+    alt="Logo Microsoft"/></code>
 
 #### Algumas Estatísticas:
 
