@@ -42,7 +42,7 @@ public class Program
     }
 }
 ```
-## Linguagens e ferramentas
+## Linguagens e Ferramentas
 
 <code><img
     height="30"
