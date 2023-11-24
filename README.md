@@ -8,7 +8,7 @@
 
 [https://fekler.tech/](https://fekler.tech/)
 
-## Mais sobre mim
+## About Me
 <!---
 public class DEV
 {
@@ -42,7 +42,7 @@ public class Program
     }
 }
 ```
-## Linguagens e Ferramentas
+## Language and Tools
 
 <code><img
     height="30"
@@ -101,7 +101,7 @@ public class Program
     src="https://github.com/Fekler/fekler.github.io/blob/main/Resources/Images/microsoft.png?raw=true"
     alt="Logo Microsoft"/></code>
 
-#### Algumas Estatísticas:
+#### Some statistics:
 
 <div>
 <img loading="lazy" height="180em" alt="Fekler" src="https://github-readme-streak-stats.herokuapp.com/?user=Fekler&hide_border=true&theme=dark" />
@@ -114,34 +114,9 @@ public class Program
  </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!---- 👋 Hi, I’m @Feklerz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-Feklerz/Feklerz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
+<!--
 ### Hi there 👋
 
-<!--
 **Fekler/Fekler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
