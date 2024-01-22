@@ -30,6 +30,8 @@ public class Program
         DEV Fekler = new ()
         {
             Name = "Felipe Queiroz",
+            Working = True,
+            Company = Kenta Informatica,
             Age = 30,
             Office = "Software Engineer .Net",
             UniversityGraduate = "Information Technology Management.",
@@ -37,7 +39,7 @@ public class Program
             City = "Natal, RN",
             Stack = new List<string> {".NET", "C#", "Rest", "Xamarin", "MAUI"},
             Database = new List<string> { "MongoDB", "MySQL", "SQL Server", "Oracle" },
-            Know = new List<string> { "SOLID", "Clean Archteture", "Clean Code", "TDD", "Scrum", "Jira", "Git" }
+            Know = new List<string> { "SOLID", "Clean Archteture", "Clean Code", "TDD", "Scrum", "Jira","Azure DevOps", "Git" }
         };        
     }
 }
