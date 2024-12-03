@@ -1,12 +1,12 @@
 # 😄 Felipe Queiroz
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-6633cc?style=flat-square&logo=Elixir&logoColor=white&color=black&link=https://fekler.tech/)](https://fekler.tech/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-6633cc?style=flat-square&logo=Elixir&logoColor=white&color=black&link=https://fekler.tec.br/)](https://fekler.tec.br/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/Fekler/)](https://www.linkedin.com/in/Fekler/)
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=https://whats.link/fekler)](https://api.whatsapp.com/send?phone=5584933000468&text=Ol%C3%A1%2C%20Felipe!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=black&link=mailto:fekler.jobs@gmail.com)](mailto:fekler.jobs@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Fekler-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Fekler)](https://github.com/Fekler)
 
-[https://fekler.tech/](https://fekler.tech/)
+[https://fekler.tec.br/](https://fekler.tec.br/)
 
 ## About Me
 <!---
